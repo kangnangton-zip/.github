@@ -16,9 +16,9 @@
 
 ## 구현
 <img src="./img01.png" style="    width: 1440px;
-    height: 800px;">
+    height: 2987px;">
 <img src="./img02.png" style="    width: 1440px;
-    height: 800px;">
+    height: 3171px;">
 <img src="./img03.png" style="    width: 1440px;
     height: 800px;">
 <img src="./img04.png" style="    width: 1440px;
@@ -28,6 +28,8 @@
 <img src="./img06.png" style="    width: 1440px;
     height: 500px;">
 <img src="./img07.png" style="    width: 1440px;
+    height: 500px;">
+<img src="./img08.png" style="    width: 1440px;
     height: 500px;">
 
 ## ✨기술 스택
