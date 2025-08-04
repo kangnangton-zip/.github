@@ -15,22 +15,14 @@
 - 최근 보안 이슈(2025년)가 있는 사이트 목록 안내
 
 ## 구현
-<img src="./img01.png" style="    width: 1440px;
-    height: 2987px;">
-<img src="./img02.png" style="    width: 1440px;
-    height: 3171px;">
-<img src="./img03.png" style="    width: 1440px;
-    height: 800px;">
-<img src="./img04.png" style="    width: 1440px;
-    height: 500px;">
-<img src="./img05.png" style="    width: 1440px;
-    height: 500px;">
-<img src="./img06.png" style="    width: 1440px;
-    height: 500px;">
-<img src="./img07.png" style="    width: 1440px;
-    height: 500px;">
-<img src="./img08.png" style="    width: 1440px;
-    height: 500px;">
+<img src="./img01.png" style="height: 2987px;">
+<img src="./img02.png" style="height: 3171px;">
+<img src="./img03.png" style="height: 800px;">
+<img src="./img04.png" style="height: 500px;">
+<img src="./img05.png" style="height: 500px;">
+<img src="./img06.png" style="height: 500px;">
+<img src="./img07.png" style="height: 500px;">
+<img src="./img08.png" style="height: 500px;">
 
 ## ✨기술 스택
 프론트엔드 : React, React-Router, Axios
