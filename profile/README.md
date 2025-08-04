@@ -15,17 +15,16 @@
 - 최근 보안 이슈(2025년)가 있는 사이트 목록 안내
 
 ## 구현
-<img src="./img01.png" style="height: 2987px;">
-<img src="./img02.png" style="height: 3171px;">
-<img src="./img03.png" style="height: 800px;">
-<img src="./img04.png" style="height: 500px;">
-<img src="./img05.png" style="height: 500px;">
-<img src="./img06.png" style="height: 500px;">
-<img src="./img07.png" style="height: 500px;">
-<img src="./img08.png" style="height: 500px;">
+<img src="./img01.png">
+<img src="./img02.png">
+<img src="./img03.png">
+<img src="./img04.png">
+<img src="./img05.png">
+<img src="./img06.png">
+<img src="./img07.png">
+<img src="./img08.png">
 
 ## ✨기술 스택
-프론트엔드 : React, React-Router, Axios
-백엔드 : Python, PyAutoGui, fastAPI
-디자인&Tools : Figma, Notion, Discord, Git Hub
-
+- 디자인&Tools : Figma, Notion, Discord, Git Hub
+- 프론트엔드 : React(Vite), React-Router, Axios
+- 백엔드 : Python, PyAutoGui, fastAPI
