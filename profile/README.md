@@ -16,11 +16,11 @@
 
 ## 구현
 <img src="./img01.png" style="    width: 1440px;
-    height: 500px;">
+    height: 800px;">
 <img src="./img02.png" style="    width: 1440px;
-    height: 500px;">
+    height: 800px;">
 <img src="./img03.png" style="    width: 1440px;
-    height: 500px;">
+    height: 800px;">
 <img src="./img04.png" style="    width: 1440px;
     height: 500px;">
 <img src="./img05.png" style="    width: 1440px;
