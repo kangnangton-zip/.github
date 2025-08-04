@@ -14,6 +14,11 @@
 - 이메일을 사용하여 보안 이슈 점검(구글 다크웹 검사, Hibp, 자체 검증 알고리즘) -> 무료 API 제공이 안되어 GUI 기반 크롤링 사용
 - 최근 보안 이슈(2025년)가 있는 사이트 목록 안내
 
+## ✨기술 스택
+- 디자인&Tools : Figma, Notion, Discord, Git Hub
+- 프론트엔드 : React(Vite), React-Router, Axios
+- 백엔드 : Python, PyAutoGui, fastAPI
+
 ## 구현
 <img src="./img01.png">
 <img src="./img02.png">
@@ -24,7 +29,3 @@
 <img src="./img07.png">
 <img src="./img08.png">
 
-## ✨기술 스택
-- 디자인&Tools : Figma, Notion, Discord, Git Hub
-- 프론트엔드 : React(Vite), React-Router, Axios
-- 백엔드 : Python, PyAutoGui, fastAPI
