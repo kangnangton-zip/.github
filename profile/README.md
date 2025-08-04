@@ -18,7 +18,8 @@
 ## ✨기술 스택
 - ### 디자인&Tools : Figma, Notion, Discord, Git Hub
 - ### 프론트엔드 : React(Vite), React-Router, Axios
-- ### 백엔드 : Python, PyAutoGui, fastAPI
+- ### 백엔드 : fastAPI
+- ### 검증 알고리즘 : Python, PyAutoGui, EasyOCR
 
 ## 🎀구현
 <img src="./img01.png">
